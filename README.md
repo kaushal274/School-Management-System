@@ -30,7 +30,7 @@ The main purpose of this project is to simplify school administration, organize 
 * 🖥️ **Interactive GUI** – User-friendly desktop interface.
 * ⚡ **Easy Navigation** – Simple and convenient interface for users.
 
-> **Note:** The features listed above describe possible modules. Update this section to match the features actually implemented in your project.
+
 
 ## 🛠️ Technologies Used
 
@@ -55,7 +55,7 @@ School-Management-System/
 └── README.md               # Project documentation
 ```
 
-*Modify the filenames and folders according to your actual project structure.*
+
 
 ## ⚙️ Installation and Setup
 
