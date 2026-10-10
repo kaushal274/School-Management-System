@@ -47,12 +47,8 @@ The main purpose of this project is to simplify school administration, organize 
 ```text
 School-Management-System/
 │
-├── main.py                 # Main application file
-├── main.ui                 # Qt Designer interface
-├── resources/              # Images and icons (if used)
-├── database.py             # Database operations (if used)
-├── requirements.txt        # Project dependencies
-└── README.md               # Project documentation
+├── main.py                 
+├── school.py
 ```
 
 
